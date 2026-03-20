@@ -9,6 +9,7 @@
 ## Project Overview
 
 This is a full-stack Machine Learning web application that predicts a student's academic performance score based on key study factors. Built using **Django** (Python web framework), **scikit-learn** (Machine Learning), and a responsive **HTML/CSS** front-end with Bootstrap 5.
+Author-"Gunjan Saxena"
 
 ---
 
@@ -149,14 +150,5 @@ http://127.0.0.1:8000/
 **Home Page** - Input form with study factor fields
 **Result Page** - Score display with grade, progress bar, and personalized recommendations
 
----
 
-## Author
 
-"Gunjan Saxena"
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).

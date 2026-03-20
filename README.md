@@ -8,8 +8,7 @@
 
 ## Project Overview
 
-This is a full-stack Machine Learning web application that predicts a student's academic performance score based on key study factors. Built using **Django** (Python web framework), **scikit-learn** (Machine Learning), and a responsive **HTML/CSS** front-end with Bootstrap 5.
-Author-"Gunjan Saxena"
+This is a full-stack Machine Learning web application that predicts a student's academic performance score based on key study factors. Built using **Django** (Python web framework), **scikit-learn** (Machine Learning), and a responsive **HTML/CSS** front-end with Bootstrap 5. 👥 Author - Gunjan Saxena
 
 ---
 

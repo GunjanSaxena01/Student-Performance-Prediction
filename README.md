@@ -153,7 +153,7 @@ http://127.0.0.1:8000/
 
 ## Author
 
-**Manohar** | GitHub: [@manohar1305h](https://github.com/manohar1305h)
+"Gunjan Saxena"
 
 ---
 
